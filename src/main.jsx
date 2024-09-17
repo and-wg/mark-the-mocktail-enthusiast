@@ -9,4 +9,5 @@ createRoot(document.getElementById('root')).render(
   </StrictMode>,
 )
 
-console.log("hejsanhoppsan")
+
+console.log("hej")
